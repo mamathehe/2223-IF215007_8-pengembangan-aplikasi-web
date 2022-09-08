@@ -17,7 +17,8 @@ Beberapa perusahaan bingung mengenai sistem gaji karyawan menggunakan digital. B
  - User CEO bisa mengontrol keuangan secara jarak jauh menggunakan internet.
 
 ## Sturktur Data
-
+	|Atribut|Tipe Data|Contoh|
+	|Id|||
 	
 
 
