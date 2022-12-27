@@ -1,37 +1,28 @@
-# 2223-IF215007_8-pengembangan-aplikasi-web
+- Nama : Rizky Rahmat Nugraha	
+- NIM : 1207050111
+- Mata Kuliah/Kelas : 
+  - Pengembangan Aplikasi Web/F 
+  - Praktikum Pengembangan Aplikasi Web/F
 
 
-# Permasalahan
+## Git Installation (1)
+## Github Project Initialization (1)
+## Hoppscotch/Postman Access (1)
+## PostgreSQL / MySQL installation (2)
+## DBeaver installation & DB connection (2)
+## MobaXterm installation & SSH connection (2)
+## NodeJS & NPM installation, operation & hello world (4)
+## Linux server operation (5)
+## Nginx / Apache web server installation & operation (5)
+## Cpanel operation (4)
+## Domain registration (1)
+## HTML Responsive Layout with Media Query & Flexbox (3)
+## Javascript Data Transformation (4)
+## Browser API - Event Handling, Local Storage, Element manipulation (5)
+## HTTP GET & POST using Form Action and Fetch API (5)
 
-Beberapa perusahaan bingung mengenai sistem gaji karyawan menggunakan digital. Begitu pula di tambah dengan sistem rekap harian perusahaan yang di satukan didalam satu website atau aplikasi.
+## HTML Responsive Layout with Bootstrap (3)
 
+## Single Page App with React & React-router (12)
 
-# Rancangan Solusi
-
- - Buat aplikasi/website perusahaan sederhana.
- - Buat menu-menu tentang karyawan , admin dan pengunjung secara terpisah.
- - Buat slip gaji digital.
- - Buat laporan keuangan harian.
- 
-## Use Case
-
- - User karyawan bisa mengetahui transparansi mengenai waktu dan nominal tentang gaji
- - User admin tidak kerepotan dan kebingungan tentang keuangan mereka dan karyawan.
- - User CEO bisa mengontrol keuangan secara jarak jauh menggunakan internet.
-
-## Struktur Data
-	
-| Atribut | Tipe Data  | Contoh|
-|--|--|--|
-| IdUser | Int  | 12|
-|Password|string|abc123|
-|NamaKaryawan|string|Ujang|
-|GajiKaryawan|String|5.000.000|
-|IdKaryawan|int|123|
-|HutangKaryawan|string|14.000.000|
-
-
-## UX Wireframe
-
-
-![figma](https://user-images.githubusercontent.com/105898484/189142789-403717ba-4f8c-4cdc-9372-848ada411057.png)
+## Dynamic Web Page using Laravel (9)
