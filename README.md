@@ -72,3 +72,42 @@
 
 
 ## Dynamic Web Page using Laravel (9)
+– Pertama-tama pastikan composer sudah terinstall . Bisa di cek di command prompt.
+– Lalu, pastikan sudah ada folder laravel 
+![image](https://user-images.githubusercontent.com/105898484/209793935-517bfeb2-774b-404c-9953-aaa3a7c7ed30.png)
+
+
+– Kemudian, sudah terdapat bootstrap 3.3.7 yang sudah di exraxt
+
+– Setelah itu, pastikan sudah ada Jquery-1.2.4.min.js.
+
+– Kemudian rename folder bootstrap dengan assets. Setelah itu, pindahkan folder assets ke public yang ada di folder laravel .
+![image](https://user-images.githubusercontent.com/105898484/209793962-ad60c234-bbd6-4578-9f66-65b2b9b105f4.png)
+
+
+-setelah itu pindahkan jquery-1.2.4 ke js yang ada di folder assets.
+![image](https://user-images.githubusercontent.com/105898484/209793992-adc8f2c0-69d0-4c34-98bd-0be61fe18c18.png)
+
+– Oke, setelah itu buka teks editor seperti atom, sublime, dsb
+
+– Lalu, kita buat file yang bernama template.blade.php di folder views 
+– Kemudian, kita buat controller di command prompt. Pertama kita buat controller di beranda Seperti ini :
+![image](https://user-images.githubusercontent.com/105898484/209794049-956c03e5-e3e3-4005-b0d2-1bbfb6a48643.png)
+![image](https://user-images.githubusercontent.com/105898484/209794105-bc7a1fe9-ad07-4f51-b002-000d16337a22.png)
+– Kemudian kita isi Beranda Controllernya, seperti ini :
+![image](https://user-images.githubusercontent.com/105898484/209794155-9b0c9677-f9e4-4ee1-a705-fd0b631f2b2d.png)
+ -Setelah itu, kita buat file yang bernama beranda.blade.php di folder resources/views
+![image](https://user-images.githubusercontent.com/105898484/209794216-ba964048-4c47-4ebb-910f-e0f74ac3c61a.png)
+ Kemudian kita isi di file web.php yang terletak di folder routes . Seperti ini :
+ ![image](https://user-images.githubusercontent.com/105898484/209794257-163a414e-ec79-4519-b43e-f76f2f244ed2.png)
+![image](https://user-images.githubusercontent.com/105898484/209794284-6c70f3c8-c018-4e12-9251-7c67539cbf1b.png)
+![image](https://user-images.githubusercontent.com/105898484/209794361-3fc0dc1b-d82f-4d35-af4d-0eb9deea18d1.png)
+![image](https://user-images.githubusercontent.com/105898484/209794411-45d2b604-1490-4989-9481-6e83b4f25be9.png)
+![image](https://user-images.githubusercontent.com/105898484/209794436-68d7b235-1cda-4d41-becb-f9ab828003d5.png)
+![image](https://user-images.githubusercontent.com/105898484/209794456-545b1984-b431-48e8-962e-373b7d819988.png)
+![image](https://user-images.githubusercontent.com/105898484/209794478-eead3278-dd99-48ab-b0ec-b284baac68d0.png)
+![image](https://user-images.githubusercontent.com/105898484/209794521-845abcf8-c357-4a7e-9e5c-773f124d2164.png)
+
+
+
+
