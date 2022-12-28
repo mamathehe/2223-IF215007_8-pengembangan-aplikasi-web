@@ -35,8 +35,34 @@
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/105898484/209653356-5c1f0a2e-5042-4dad-941b-4b5ba43c376f.png">
 
 ## Cpanel operation (4)
+Berikut Cara Membuat Database MySQL di cPanel …
+Sebelum Anda memulai langkah pada tutorial ini, pastikan bahwa Anda memiliki akses ke cPanel. Jika sudah, yuk ikuti langkah-langkah berikut!
+
+1. Login ke cPanel dan Pilih Menu MySQL Databases
+Silakan login ke cPanel Anda, kemudian klik menu MySQL Databases seperti yang terlihat pada gambar di bawah ini:
+![image](https://user-images.githubusercontent.com/105898484/209796415-3614068f-612d-4984-bfc6-1c0852a84c9a.png)
+2. Masukkan Nama Database
+Masukkan nama database pada kolom yang tersedia (tuliskan nama database tanpa spasi). Setelah memasukkan nama database, silakan klik tombol Create Database seperti di bawah ini.
+
+![image](https://user-images.githubusercontent.com/105898484/209796439-470923ff-adc2-40b3-8811-27230cf7546c.png)
+3. Buat Username
+Klik tombol Go Back untuk kembali ke halaman pengaturan database:
+![image](https://user-images.githubusercontent.com/105898484/209796491-e26275cb-6eec-48f3-9c4f-fb85b53ce0d4.png)
+4. Tambahkan User ke Database
+Pada bagian Add User To Database, Anda akan melihat daftar drop down untuk User dan Database. Silakan pilih User dan Database yang ingin Anda hubungkan.
+
+Dalam contoh ini, kami akan memasukkan user niagahos_user dengan database niagahos_namadatabase.
+![image](https://user-images.githubusercontent.com/105898484/209796530-951ddd9d-2c1e-46c3-a9ce-27c50161fce4.png)
+5. Membuat Database MySQL dengan Memilih Semua Privileges
+Setelahnya, Anda perlu mengatur user privilege MySQL. Caranya, beri tanda centang pada bagian ALL PRIVILEGES, kemudian klik tombol Make Changes seperti gambar di bawah ini.![image](https://user-images.githubusercontent.com/105898484/209796551-70024df2-6887-47f6-9088-0324e9c9d21d.png)
+
 
 ## Domain registration (1)
+1.Temukan Registrar Domain yang Kredibel. Registrar adalah perusahaan yang mendaftarkan dan mengelola domain. ...
+2. Cari Nama Domain. ...
+3. Pilih Domain. ...
+4. Selesaikan Pendaftaran Domain. ...
+5 Verifikasi Kepemilikan Domain.
 ## HTML Responsive Layout with Media Query & Flexbox (3)
 ![image](https://user-images.githubusercontent.com/105898484/209777356-3ce9335e-0a7f-4fd1-a344-e0ea5f22f7a4.png)
 ![image](https://user-images.githubusercontent.com/105898484/209777407-555a40c9-cb2e-481e-a81c-d9a027b34880.png)
