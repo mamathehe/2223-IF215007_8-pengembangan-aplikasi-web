@@ -46,6 +46,8 @@
 ![image](https://user-images.githubusercontent.com/105898484/209775559-c5f72e0e-45d0-4cd5-ad07-59f7e3967e52.png)
 
 ## Browser API - Event Handling, Local Storage, Element manipulation (5)
+![image](https://user-images.githubusercontent.com/105898484/209780564-05123a0b-5596-4730-8d62-08e9117dbdf0.png)
+
 
 ## HTTP GET & POST using Form Action and Fetch API (5)
 ![image](https://user-images.githubusercontent.com/105898484/209774662-ccfb101c-d7f8-40db-bf63-7761bd6335db.png)
